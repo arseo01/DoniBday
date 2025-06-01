@@ -2,7 +2,7 @@ let currentRotation = 0;
 
 function rotateDiv() {
     currentRotation += 180;
-    const topElement = document.getElementById('top');
+    const topElement = document.getElementById('high');
     
     topElement.style.transform = `rotateX(${currentRotation}deg) translateY(-226px) rotateY(180deg) rotateZ(10deg)`;
     document.getElementById("detonator").style.display = "none";
