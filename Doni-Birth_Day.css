@@ -2,6 +2,10 @@ body {
     background-color: #ffc6a4;
 }
 
+body::-webkit-scrollbar {
+    display: none;
+}
+
 #H_1 {
     z-index: 1000;
     position: fixed;
@@ -189,7 +193,7 @@ display: none;
 #ballon_1 {
     position: fixed;
     left: 70%;
-    animation: goUp 20s forwards;
+    animation: goDown 20s infinite;
 }
 
 #ballon_1_body {
@@ -225,8 +229,8 @@ display: none;
 
 #ballon_2 {
     position: fixed;
-    animation: goUp 1000s forwards;
-    animation: goRight 20s forwards;
+    animation: goDown 1000s infinite;
+    animation: goLeft 20s infinite;
 }
 
 #ballon_2_body {
@@ -262,8 +266,8 @@ display: none;
 
 #ballon_3 {
     position: fixed;
-    left: 500px;
-    animation: goUp 15s forwards;
+    left: 177px;
+    animation: goDown 15s infinite;
 }
 
 #ballon_3_body {
@@ -298,20 +302,26 @@ display: none;
 }
 
 
-@keyframes goUp {
+@keyframes goDown {
     0% {
-        transform: translateY(999px);
+        transform: translateY(-999px);
     }
     100% {
-        transform: translateY(-999px);
+        transform: translateY(999px);
     }
 }
 
-@keyframes goRight {
+@keyframes goLeft {
     0% {
-        transform: translate(-100px, 500px);
-    }
-    100% {
         transform: translate(550px, -2000px);
     }
+    100% {
+        transform: translate(-100px, 500px);
+    }
+}
+
+#hidden-message {
+    position: absolute;
+    left: 10000000px;
+    top: 10000000px;
 }
