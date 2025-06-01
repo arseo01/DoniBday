@@ -1,0 +1,129 @@
+#H_1 {
+    position: fixed;
+    top: 30%;
+    left: 7%;
+    transform: translate(-50%, -50%);
+    font-size: 2em;
+    animation: move 2s infinite;
+    
+}
+
+#A_1 {
+    position: fixed;
+    top: 30%;
+    left: 14%;
+    transform: translate(-50%, -50%);
+    font-size: 2em;
+    animation: move 2.1s infinite;
+}
+
+#P_1 {
+    position: fixed;
+    top: 30%;
+    left: 21%;
+    transform: translate(-50%, -50%);
+    font-size: 2em;
+    animation: move 2.2s infinite;
+}
+
+#P {
+    position: fixed;
+    top: 30%;
+    left: 28%;
+    transform: translate(-50%, -50%);
+    font-size: 2em;
+    animation: move 2.3s infinite;
+}
+
+#Y_1 {
+    position: fixed;
+    top: 30%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+    font-size: 2em;
+    animation: move 2.4s infinite;
+}
+
+#B {
+    position: fixed;
+    top: 30%;
+    left: 46%;
+    transform: translate(-50%, -50%);
+    font-size: 2em;
+    animation: move 2.5s infinite;
+}
+
+#I {
+    position: fixed;
+    top: 30%;
+    left: 52%;
+    transform: translate(-50%, -50%);
+    font-size: 2em;
+    animation: move 2.6s infinite;
+}
+
+#R {
+    position: fixed;
+    top: 30%;
+    left: 56%;
+    transform: translate(-50%, -50%);
+    font-size: 2em;
+    animation: move 2.7s infinite;
+}
+
+#T {
+    position: fixed;
+    top: 30%;
+    left: 63%;
+    transform: translate(-50%, -50%);
+    font-size: 2em;
+    animation: move 2.8s infinite;
+}
+
+#H {
+    position: fixed;
+    top: 30%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    font-size: 2em;
+    animation: move 2.9s infinite;
+}
+
+#D {
+    position: fixed;
+    top: 30%;
+    left: 77%;
+    transform: translate(-50%, -50%);
+    font-size: 2em;
+    animation: move 3s infinite;
+}
+
+#A {
+    position: fixed;
+    top: 30%;
+    left: 84%;
+    transform: translate(-50%, -50%);
+    font-size: 2em;
+    animation: move 3.1s infinite;
+}
+
+#Y {
+    position: fixed;
+    top: 30%;
+    left: 91%;
+    transform: translate(-50%, -50%);
+    font-size: 2em;
+    animation: move 3.2s infinite;
+}
+
+@keyframes move {
+    0% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-20px);
+    }
+    100% {
+        transform: translateY(0);
+    }
+}
