@@ -6,7 +6,7 @@ body::-webkit-scrollbar {
     display: none;
 }
 
-#H_1 {
+#letter_1 {
     z-index: 1000;
     position: fixed;
     top: 5%;
@@ -16,7 +16,7 @@ body::-webkit-scrollbar {
     animation: move 2.05s infinite;
 }
 
-#A_1 {
+#SSSSS_1 {
     position: fixed;
     top: 5%;
     left: 3%;
@@ -25,7 +25,7 @@ body::-webkit-scrollbar {
     animation: move 2.95s infinite;
 }
 
-#P_1 {
+#ggggggg_1 {
     position: fixed;
     top: 5%;
     left: 5%;
@@ -34,7 +34,7 @@ body::-webkit-scrollbar {
     animation: move 0.8s infinite;
 }
 
-#P {
+#Pqwesad {
     position: fixed;
     top: 5%;
     left: 7%;
@@ -43,7 +43,7 @@ body::-webkit-scrollbar {
     animation: move 2.15s infinite;
 }
 
-#Y_1 {
+#fdgdvergf {
     position: fixed;
     top: 5%;
     left: 9%;
@@ -52,7 +52,7 @@ body::-webkit-scrollbar {
     animation: move 1.2s infinite;
 }
 
-#B {
+#gretsdf {
     position: fixed;
     top: 5%;
     left: 11%;
@@ -61,7 +61,7 @@ body::-webkit-scrollbar {
     animation: move 2.25s infinite;
 }
 
-#I {
+#Iasdwerasd {
     position: fixed;
     top: 5%;
     left: 13%;
@@ -70,7 +70,7 @@ body::-webkit-scrollbar {
     animation: move 20.3s infinite;
 }
 
-#R {
+#qeqweqwe {
     position: fixed;
     top: 5%;
     left: 15%;
@@ -79,7 +79,7 @@ body::-webkit-scrollbar {
     animation: move 1.35s infinite;
 }
 
-#T {
+#tyujthgfj {
     position: fixed;
     top: 5%;
     left: 17%;
@@ -88,7 +88,7 @@ body::-webkit-scrollbar {
     animation: move 2.35s infinite;
 }
 
-#H {
+#qweqwefsddczx {
     position: fixed;
     top: 5%;
     left: 19%;
@@ -97,7 +97,7 @@ body::-webkit-scrollbar {
     animation: move 4.4s infinite;
 }
 
-#D {
+#tryghf {
     position: fixed;
     top: 5%;
     left: 21%;
@@ -107,7 +107,7 @@ body::-webkit-scrollbar {
     animation-delay: 1s;
 }
 
-#A {
+#uyoyuj {
     position: fixed;
     top: 5%;
     left: 23%;
@@ -116,7 +116,7 @@ body::-webkit-scrollbar {
     animation: move 2.5s infinite;
 }
 
-#Y {
+#utyitjhngf {
     position: fixed;
     top: 5%;
     left: 25%;
@@ -140,7 +140,7 @@ body::-webkit-scrollbar {
     }
 }
 
-#opener {
+#detonator {
     position: absolute;
     top: 90px;
     left: 37%;
@@ -153,7 +153,7 @@ body::-webkit-scrollbar {
     rotate: 45deg;
 }
 
-#top {
+#high {
     rotate: 180deg;
     background: #ff863a;
     width: 80%;
@@ -168,7 +168,7 @@ body::-webkit-scrollbar {
     z-index: 122;
 }
 
-#bottom {
+#lower-and-loweer {
     background: #ff863a;
     width: 80%;
     height: 225px;
@@ -181,22 +181,22 @@ body::-webkit-scrollbar {
     left: 10%;
 }
 
-#text {
+#writen {
 display: none;
 }
 
-#ballons {
+#BOMBS {
     position: absolute;
     z-index: 111111111;
 }
 
-#ballon_1 {
+#BOMB_1 {
     position: fixed;
     left: 70%;
-    animation: goDown 20s infinite;
+    animation: where-are-you-going 20s infinite;
 }
 
-#ballon_1_body {
+#BOMB_1_body-part {
     height: 120px;
     width: 90px;
     background-color: #ff0000;
@@ -205,7 +205,7 @@ display: none;
     transform: scale(.75);
 }
 
-#ballon_1_tail {
+#BOMB_1_horse-tail {
     height: 25px;
     width: 25px;
     background-color: #ff0000;
@@ -217,7 +217,7 @@ display: none;
     z-index: -111;
 }
 
-#ballon_1_line {
+#BOMB_1_viz {
     height: 150px;
     width: 2px;
     background-color: black;
@@ -227,13 +227,13 @@ display: none;
     rotate: 8deg;
 }
 
-#ballon_2 {
+#BOMB_2 {
     position: fixed;
-    animation: goDown 1000s infinite;
-    animation: goLeft 20s infinite;
+    animation: where-are-you-going 1000s infinite;
+    animation: Wake-up-to-reality 20s infinite;
 }
 
-#ballon_2_body {
+#BOMB_2_body-part {
     height: 120px;
     width: 90px;
     background-color: #533aff;
@@ -242,7 +242,7 @@ display: none;
     transform: scale(.75);
 }
 
-#ballon_2_tail {
+#BOMB_2_horrse--tail {
     height: 25px;
     width: 25px;
     background-color: #533aff;
@@ -254,7 +254,7 @@ display: none;
     z-index: -111;
 }
 
-#ballon_2_line {
+#BOMB_2_ruler {
     height: 150px;
     width: 2px;
     background-color: black;
@@ -264,13 +264,13 @@ display: none;
     rotate: 355deg;
 }
 
-#ballon_3 {
+#BOMB_3 {
     position: fixed;
     left: 177px;
-    animation: goDown 15s infinite;
+    animation: where-are-you-going 15s infinite;
 }
 
-#ballon_3_body {
+#BOMB_3_human-body {
     height: 120px;
     width: 90px;
     background-color: #00d83c;
@@ -279,7 +279,7 @@ display: none;
     transform: scale(.75);
 }
 
-#ballon_3_tail {
+#BOMB_3_bisht {
     height: 25px;
     width: 25px;
     background-color: #00d83c;
@@ -291,7 +291,7 @@ display: none;
     z-index: -111;
 }
 
-#ballon_3_line {
+#BOMB_3_liner {
     height: 150px;
     width: 2px;
     background-color: black;
@@ -302,7 +302,7 @@ display: none;
 }
 
 
-@keyframes goDown {
+@keyframes where-are-you-going {
     0% {
         transform: translateY(-999px);
     }
@@ -311,7 +311,7 @@ display: none;
     }
 }
 
-@keyframes goLeft {
+@keyframes Wake-up-to-reality {
     0% {
         transform: translate(550px, -2000px);
     }
@@ -320,7 +320,7 @@ display: none;
     }
 }
 
-#hidden-message {
+#jisdofgnortshgukdfjnboufsdighirstbnvousdhfgjbdfgfdgiudsfgh {
     position: absolute;
     left: 1000000px;
     top: 1000000px;
