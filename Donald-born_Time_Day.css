@@ -325,3 +325,27 @@ display: none;
     left: 1000000px;
     top: 1000000px;
 }
+
+#hisfduhfushdifh {
+    border-left: 60px solid transparent;
+    border-right: 60px solid transparent;
+    border-bottom: 70px solid red;
+    position: absolute;
+    top: 410px;
+    left: 80px;
+}
+
+#hisfduhfushdifh_2 {
+    height: 270px;
+    width: 80px;
+    position: absolute;
+    background-color: #0600ff;
+    top: 480px;
+    left: 100px;
+}
+
+#down {
+    position: absolute;
+    left: 88%;
+    z-index: -999999;
+}
