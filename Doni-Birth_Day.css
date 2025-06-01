@@ -322,6 +322,6 @@ display: none;
 
 #hidden-message {
     position: absolute;
-    left: 10000000px;
-    top: 10000000px;
+    left: 1000000px;
+    top: 1000000px;
 }
