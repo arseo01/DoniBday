@@ -9,8 +9,8 @@ body::-webkit-scrollbar {
 #H_1 {
     z-index: 1000;
     position: fixed;
-    top: 15%;
-    left: 7%;
+    top: 5%;
+    left: 1%;
     transform: translate(-50%, -50%);
     font-size: 40px;
     animation: move 2.05s infinite;
@@ -18,8 +18,8 @@ body::-webkit-scrollbar {
 
 #A_1 {
     position: fixed;
-    top: 15%;
-    left: 14%;
+    top: 5%;
+    left: 3%;
     transform: translate(-50%, -50%);
     font-size: 40px;
     animation: move 2.95s infinite;
@@ -27,8 +27,8 @@ body::-webkit-scrollbar {
 
 #P_1 {
     position: fixed;
-    top: 15%;
-    left: 21%;
+    top: 5%;
+    left: 5%;
     transform: translate(-50%, -50%);
     font-size: 40px;
     animation: move 0.8s infinite;
@@ -36,8 +36,8 @@ body::-webkit-scrollbar {
 
 #P {
     position: fixed;
-    top: 15%;
-    left: 28%;
+    top: 5%;
+    left: 7%;
     transform: translate(-50%, -50%);
     font-size: 40px;
     animation: move 2.15s infinite;
@@ -45,8 +45,8 @@ body::-webkit-scrollbar {
 
 #Y_1 {
     position: fixed;
-    top: 15%;
-    left: 35%;
+    top: 5%;
+    left: 9%;
     transform: translate(-50%, -50%);
     font-size: 40px;
     animation: move 1.2s infinite;
@@ -54,8 +54,8 @@ body::-webkit-scrollbar {
 
 #B {
     position: fixed;
-    top: 15%;
-    left: 46%;
+    top: 5%;
+    left: 11%;
     transform: translate(-50%, -50%);
     font-size: 40px;
     animation: move 2.25s infinite;
@@ -63,8 +63,8 @@ body::-webkit-scrollbar {
 
 #I {
     position: fixed;
-    top: 15%;
-    left: 52%;
+    top: 5%;
+    left: 13%;
     transform: translate(-50%, -50%);
     font-size: 40px;
     animation: move 20.3s infinite;
@@ -72,8 +72,8 @@ body::-webkit-scrollbar {
 
 #R {
     position: fixed;
-    top: 15%;
-    left: 56%;
+    top: 5%;
+    left: 15%;
     transform: translate(-50%, -50%);
     font-size: 40px;
     animation: move 1.35s infinite;
@@ -81,8 +81,8 @@ body::-webkit-scrollbar {
 
 #T {
     position: fixed;
-    top: 15%;
-    left: 63%;
+    top: 5%;
+    left: 17%;
     transform: translate(-50%, -50%);
     font-size: 40px;
     animation: move 2.35s infinite;
@@ -90,8 +90,8 @@ body::-webkit-scrollbar {
 
 #H {
     position: fixed;
-    top: 15%;
-    left: 69%;
+    top: 5%;
+    left: 19%;
     transform: translate(-50%, -50%);
     font-size: 40px;
     animation: move 4.4s infinite;
@@ -99,8 +99,8 @@ body::-webkit-scrollbar {
 
 #D {
     position: fixed;
-    top: 15%;
-    left: 77%;
+    top: 5%;
+    left: 21%;
     transform: translate(-50%, -50%);
     font-size: 40px;
     animation: move 2.45s infinite;
@@ -109,8 +109,8 @@ body::-webkit-scrollbar {
 
 #A {
     position: fixed;
-    top: 15%;
-    left: 84%;
+    top: 5%;
+    left: 23%;
     transform: translate(-50%, -50%);
     font-size: 40px;
     animation: move 2.5s infinite;
@@ -118,8 +118,8 @@ body::-webkit-scrollbar {
 
 #Y {
     position: fixed;
-    top: 15%;
-    left: 91%;
+    top: 5%;
+    left: 25%;
     transform: translate(-50%, -50%);
     font-size: 40px;
     animation: move 2.55s infinite;
